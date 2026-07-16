@@ -1,0 +1,11 @@
+Copyright (c) 2026 Dan Brunermer
+
+Permission is granted to individuals, researchers,
+educational institutions, and non-profit organizations
+to use, modify, and build machines from these designs.
+
+Attribution to Dan Brunermer is required.
+
+Commercial manufacture, sale, resale, or distribution
+of machines based on these designs is prohibited
+without written permission from the copyright holder.
